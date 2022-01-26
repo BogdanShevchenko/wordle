@@ -1,2 +1,2 @@
 # wordle
-wordle solwer
+wordle solver
